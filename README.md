@@ -41,5 +41,5 @@ Clone de interface inspirado na Subway, desenvolvido para praticar HTML, CSS e J
 
 ## Contato
 
-- GitHub: https://github.com/SEU_USUARIO
-- LinkedIn: coloque-seu-link-aqui
+- GitHub: https://github.com/xande0804
+- LinkedIn: www.linkedin.com/in/devxande
