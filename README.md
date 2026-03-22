@@ -28,9 +28,6 @@ Sistema web de gestão de empréstimos com foco em clientes, parcelas, pagamento
 ### RentCar Pro
 Sistema de locação de veículos voltado para controle de reservas, clientes e gestão administrativa.
 
-### FrontEnd
-Repositório acadêmico com atividades e projetos voltados para interface, responsividade e interatividade web.
-
 ### Subway Clone
 Clone de interface inspirado na Subway, desenvolvido para praticar HTML, CSS e JavaScript.
 
