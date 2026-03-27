@@ -33,7 +33,6 @@ Clone de interface inspirado na Subway, desenvolvido para praticar HTML, CSS e J
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xande0804&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xande0804&layout=compact&theme=tokyonight)
 
 ## Contato
