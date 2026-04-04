@@ -31,10 +31,6 @@ Sistema de locação de veículos voltado para controle de reservas, clientes e 
 ### Subway Clone
 Clone de interface inspirado na Subway, desenvolvido para praticar HTML, CSS e JavaScript.
 
-## Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xande0804&layout=compact&theme=tokyonight)
-
 ## Contato
 
 - GitHub: https://github.com/xande0804
